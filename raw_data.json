@@ -1,0 +1,268 @@
+[
+    {
+        "success": true,
+        "range": "24h",
+        "chain": null,
+        "results": {
+            "dappId": 3,
+            "name": "CryptoKitties",
+            "description": "In CryptoKitties, users collect and breed oh-so-ad",
+            "fullDescription": "<p>In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes.</p>",
+            "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/3/cryptokitties-dapp-games-eth-logo-166x166_284c8db186943f1d5b3c31c7f391b56b.png",
+            "link": "https://dappradar.com/dapp/cryptokitties",
+            "website": "https://www.cryptokitties.co",
+            "tokens": [
+                {
+                    "symbol": "wck",
+                    "price": null,
+                    "smartContract": "0x09fe5f0236f0ea5d930197dce254d77b04128075",
+                    "logo": "https://token-repository.dappradar.com/tokens?protocol=ethereum&contract=0x09fe5f0236f0ea5d930197dce254d77b04128075&file=logo.png",
+                    "pricePercentageChange": null
+                }
+            ],
+            "categories": [
+                "games"
+            ],
+            "socialLinks": [
+                {
+                    "title": "facebook",
+                    "url": "https://www.facebook.com/CryptoKitties/",
+                    "type": "facebook"
+                },
+                {
+                    "title": "reddit",
+                    "url": "https://www.reddit.com/r/CryptoKitties/",
+                    "type": "reddit"
+                },
+                {
+                    "title": "twitter",
+                    "url": "https://twitter.com/cryptokitties",
+                    "type": "twitter"
+                },
+                {
+                    "title": "youtube",
+                    "url": "https://www.youtube.com/channel/UClUgQBJcxAmHjOQgV4QgVXg",
+                    "type": "youtube"
+                },
+                {
+                    "title": "instagram",
+                    "url": "https://www.instagram.com/cryptokitties/",
+                    "type": "instagram"
+                },
+                {
+                    "title": "discord",
+                    "url": "https://discord.gg/3GvT66U",
+                    "type": "discord"
+                },
+                {
+                    "title": "medium",
+                    "url": "https://medium.com/cryptokitties",
+                    "type": "medium"
+                },
+                {
+                    "title": "other",
+                    "url": "https://www.cryptokitties.co/blog/",
+                    "type": "other"
+                }
+            ],
+            "tags": [],
+            "metrics": {
+                "transactions": 12,
+                "transactionsPercentageChange": 33.33,
+                "uaw": 8,
+                "uawPercentageChange": 60,
+                "volume": 58.97,
+                "volumePercentageChange": -79.03,
+                "balance": 1185277.27,
+                "balancePercentageChange": 1.58
+            },
+            "chains": [
+                "ethereum"
+            ],
+            "firstTransactionDate": "2017-11-23"
+        }
+    },
+    {
+        "success": true,
+        "range": "24h",
+        "chain": null,
+        "results": {
+            "dappId": 20,
+            "name": "CryptoJingles",
+            "description": "Compose the best jingles on the blockchain, you ca",
+            "fullDescription": "Compose the best jingles on the blockchain, you can share them, sell them and love them",
+            "logo": null,
+            "link": "https://dappradar.com/dapp/cryptojingles",
+            "website": "http://cryptojingles.com/",
+            "tokens": [],
+            "categories": [
+                "collectibles"
+            ],
+            "socialLinks": [
+                {
+                    "title": "Official Reddit",
+                    "url": "https://www.reddit.com/r/CryptoJingles/",
+                    "type": "reddit"
+                }
+            ],
+            "tags": [],
+            "metrics": {
+                "transactions": 0,
+                "transactionsPercentageChange": 0,
+                "uaw": 0,
+                "uawPercentageChange": 0,
+                "volume": 0,
+                "volumePercentageChange": 0,
+                "balance": 389.18,
+                "balancePercentageChange": 1.58
+            },
+            "chains": [
+                "ethereum"
+            ],
+            "firstTransactionDate": "2018-02-03"
+        }
+    },
+    {
+        "success": true,
+        "range": "24h",
+        "chain": null,
+        "results": {
+            "dappId": 17,
+            "name": "Ethermon",
+            "description": "Re-launched in 2019 Ethermon.io is the communit",
+            "fullDescription": "<p>Re-launched in 2019 Ethermon.io is the community driven version of the popular Etheremon.com under an entire new team. Players can continue to use their old and new Ether Monsters (EtherMon) to join forces and continue their journey in this crypto based battle games where they capture, train, and transform their collectables to make their permanent mark on the blockchain.</p>\r\n",
+            "logo": "https://dashboard-assets.dappradar.com/geRRcWz9IdTwSrm1/document/17/ethermon-dapp-games-eth-logo-166x166_e94763be71613fa98d09ebaf8752bde2.png",
+            "link": "https://dappradar.com/dapp/ethermon",
+            "website": "https://www.ethermon.io",
+            "tokens": [],
+            "categories": [
+                "games"
+            ],
+            "socialLinks": [
+                {
+                    "title": "Official Twitter",
+                    "url": "https://twitter.com/myetheremon",
+                    "type": "twitter"
+                },
+                {
+                    "title": "Official Discord",
+                    "url": "https://discord.gg/xgJpuzc",
+                    "type": "discord"
+                },
+                {
+                    "title": "Official Telegram",
+                    "url": "https://t.me/myetheremon",
+                    "type": "telegram"
+                },
+                {
+                    "title": "Official Reddit",
+                    "url": "https://www.reddit.com/r/etheremon/",
+                    "type": "reddit"
+                },
+                {
+                    "title": "Official Facebook",
+                    "url": "https://www.facebook.com/etheremon",
+                    "type": "facebook"
+                },
+                {
+                    "title": "Official Twitter",
+                    "url": "https://twitter.com/Ethermon_io",
+                    "type": "twitter"
+                },
+                {
+                    "title": "Official Discord",
+                    "url": "https://discordapp.com/invite/p7wBXc9",
+                    "type": "discord"
+                },
+                {
+                    "title": "Official Telegram",
+                    "url": "https://t.me/ethermon",
+                    "type": "telegram"
+                }
+            ],
+            "tags": [],
+            "metrics": {
+                "transactions": 0,
+                "transactionsPercentageChange": 0,
+                "uaw": 0,
+                "uawPercentageChange": 0,
+                "volume": 0,
+                "volumePercentageChange": 0,
+                "balance": 9665.8,
+                "balancePercentageChange": 1.58
+            },
+            "chains": [
+                "ethereum"
+            ],
+            "firstTransactionDate": "2017-12-17"
+        }
+    },
+    {
+        "success": true,
+        "range": "24h",
+        "chain": null,
+        "results": {
+            "dappId": 100,
+            "name": "PoWEth",
+            "description": "Proof of Work ERC20 token with 100.000.000 maximum",
+            "fullDescription": "Proof of Work ERC20 token with 100.000.000 maximum supply.",
+            "logo": null,
+            "link": "https://dappradar.com/dapp/poweth",
+            "website": "http://poweth.org/",
+            "tokens": [],
+            "categories": [
+                "high-risk"
+            ],
+            "socialLinks": [],
+            "tags": [],
+            "metrics": {
+                "transactions": 0,
+                "transactionsPercentageChange": 0,
+                "uaw": 0,
+                "uawPercentageChange": 0,
+                "volume": 0,
+                "volumePercentageChange": 0,
+                "balance": 0,
+                "balancePercentageChange": 0
+            },
+            "chains": [
+                "ethereum"
+            ],
+            "firstTransactionDate": "2018-02-18"
+        }
+    },
+    {
+        "success": true,
+        "range": "24h",
+        "chain": null,
+        "results": {
+            "dappId": 150,
+            "name": "Ether Dragon Ball Z",
+            "description": "Grab your favorite Dragon Ball Z hero on the Block",
+            "fullDescription": "Grab your favorite Dragon Ball Z hero on the Blockchain. Earn 2x when your hero is purchased by other player and 10% commission from every sale of your hero in Tournament of Power if you are last owner before the tournament kicks start",
+            "logo": null,
+            "link": "https://dappradar.com/dapp/ether-dragon-ball-z",
+            "website": "https://etherdragonball.com",
+            "tokens": [],
+            "categories": [
+                "games"
+            ],
+            "socialLinks": [],
+            "tags": [],
+            "metrics": {
+                "transactions": 0,
+                "transactionsPercentageChange": 0,
+                "uaw": 0,
+                "uawPercentageChange": 0,
+                "volume": 0,
+                "volumePercentageChange": 0,
+                "balance": 0,
+                "balancePercentageChange": 0
+            },
+            "chains": [
+                "ethereum"
+            ],
+            "firstTransactionDate": "2018-02-25"
+        }
+    }
+]

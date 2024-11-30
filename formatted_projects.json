@@ -1,0 +1,177 @@
+[
+    {
+        "project_name": "CryptoKitties",
+        "categories": [
+            "games"
+        ],
+        "description": {
+            "short": "In CryptoKitties, users collect and breed oh-so-ad",
+            "full": "<p>In CryptoKitties, users collect and breed oh-so-adorable creatures that we call CryptoKitties! Each kitty has a unique genome that defines its appearance and traits. Players can breed their kitties to create new furry friends and unlock rare cattributes.</p>"
+        },
+        "requirements": [
+            {
+                "chains": [
+                    "ethereum"
+                ],
+                "balance": 1185277.27,
+                "task": null,
+                "difficulty": null,
+                "deadline": null
+            }
+        ],
+        "rewards": {
+            "amount": null,
+            "distribution_date": null
+        },
+        "links": {
+            "website": "https://www.cryptokitties.co",
+            "social": {
+                "twitter": "https://twitter.com/cryptokitties",
+                "telegram": "",
+                "discord": "https://discord.gg/3GvT66U"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-12-01 01:20:05"
+    },
+    {
+        "project_name": "CryptoJingles",
+        "categories": [
+            "collectibles"
+        ],
+        "description": {
+            "short": "Compose the best jingles on the blockchain, you ca",
+            "full": "Compose the best jingles on the blockchain, you can share them, sell them and love them"
+        },
+        "requirements": [
+            {
+                "chains": [
+                    "ethereum"
+                ],
+                "balance": 389.18,
+                "task": null,
+                "difficulty": null,
+                "deadline": null
+            }
+        ],
+        "rewards": {
+            "amount": null,
+            "distribution_date": null
+        },
+        "links": {
+            "website": "http://cryptojingles.com/",
+            "social": {
+                "twitter": "",
+                "telegram": "",
+                "discord": ""
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-12-01 01:20:05"
+    },
+    {
+        "project_name": "Ethermon",
+        "categories": [
+            "games"
+        ],
+        "description": {
+            "short": "Re-launched in 2019 Ethermon.io is the communit",
+            "full": "<p>Re-launched in 2019 Ethermon.io is the community driven version of the popular Etheremon.com under an entire new team. Players can continue to use their old and new Ether Monsters (EtherMon) to join forces and continue their journey in this crypto based battle games where they capture, train, and transform their collectables to make their permanent mark on the blockchain.</p>\r\n"
+        },
+        "requirements": [
+            {
+                "chains": [
+                    "ethereum"
+                ],
+                "balance": 9665.8,
+                "task": null,
+                "difficulty": null,
+                "deadline": null
+            }
+        ],
+        "rewards": {
+            "amount": null,
+            "distribution_date": null
+        },
+        "links": {
+            "website": "https://www.ethermon.io",
+            "social": {
+                "twitter": "https://twitter.com/myetheremon",
+                "telegram": "https://t.me/myetheremon",
+                "discord": "https://discord.gg/xgJpuzc"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-12-01 01:20:05"
+    },
+    {
+        "project_name": "PoWEth",
+        "categories": [
+            "high-risk"
+        ],
+        "description": {
+            "short": "Proof of Work ERC20 token with 100.000.000 maximum",
+            "full": "Proof of Work ERC20 token with 100.000.000 maximum supply."
+        },
+        "requirements": [
+            {
+                "chains": [
+                    "ethereum"
+                ],
+                "balance": 0,
+                "task": null,
+                "difficulty": null,
+                "deadline": null
+            }
+        ],
+        "rewards": {
+            "amount": null,
+            "distribution_date": null
+        },
+        "links": {
+            "website": "http://poweth.org/",
+            "social": {
+                "twitter": "",
+                "telegram": "",
+                "discord": ""
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-12-01 01:20:05"
+    },
+    {
+        "project_name": "Ether Dragon Ball Z",
+        "categories": [
+            "games"
+        ],
+        "description": {
+            "short": "Grab your favorite Dragon Ball Z hero on the Block",
+            "full": "Grab your favorite Dragon Ball Z hero on the Blockchain. Earn 2x when your hero is purchased by other player and 10% commission from every sale of your hero in Tournament of Power if you are last owner before the tournament kicks start"
+        },
+        "requirements": [
+            {
+                "chains": [
+                    "ethereum"
+                ],
+                "balance": 0,
+                "task": null,
+                "difficulty": null,
+                "deadline": null
+            }
+        ],
+        "rewards": {
+            "amount": null,
+            "distribution_date": null
+        },
+        "links": {
+            "website": "https://etherdragonball.com",
+            "social": {
+                "twitter": "",
+                "telegram": "",
+                "discord": ""
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-12-01 01:20:05"
+    }
+]
