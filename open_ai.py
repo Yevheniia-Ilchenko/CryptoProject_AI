@@ -10,6 +10,7 @@ os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
 
 
 def ask_assistant(question):
+
     """
     Function to interact with the OpenAI API using LangChain.
     :param question: User question as a string.

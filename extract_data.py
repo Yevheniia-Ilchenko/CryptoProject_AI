@@ -15,6 +15,17 @@ base_url = "https://apis.dappradar.com/v2/dapps/"
 
 
 def get_project_data(dapp_id):
+    """
+        Fetches project data for a given DApp ID from the API.
+
+        Parameters:
+        - dapp_id (int): The ID of the project to fetch data for.
+
+        Returns:
+        - dict: The JSON response from the API if the request is successful.
+        - None: If the request fails, returns None.
+    """
+
     session = Session()
     session.headers.update(headers)
     url = f"{base_url}{dapp_id}"

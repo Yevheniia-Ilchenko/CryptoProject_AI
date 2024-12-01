@@ -9,9 +9,11 @@ import pandas as pd
 
 
 def ensure_data_exists():
+
     """
     Ensures data files exist. If missing, fetches and saves the data.
     """
+
     if not os.path.exists("formatted_projects.json"):
         st.info("No data found. Fetching data...")
         update_and_prepare_data()
@@ -27,6 +29,12 @@ def ensure_data_exists():
 
 
 def update_and_prepare_data():
+
+    """
+        Fetches data for a predefined list of project IDs from the API, processes it,
+        and saves the raw and formatted data into JSON files.
+    """
+
     project_ids = [3, 20, 17, 100, 150]
     projects = []
 
@@ -48,9 +56,12 @@ def update_and_prepare_data():
 
 
 def prepare_dataframe():
+
     """
     Loads and prepares the formatted_projects.json file into a DataFrame.
+
     """
+
     try:
         df = pd.read_json("formatted_projects.json")
 
@@ -73,6 +84,25 @@ def prepare_dataframe():
 
 
 def streamlit_interface():
+
+    """
+        Provides a user interface for the Crypto Projects Dashboard using Streamlit.
+
+    Sidebar Functionality:
+    - Filter by project status.
+    - Search for projects by keyword.
+    - Update data with a button click.
+    - Download filtered data as a CSV file.
+
+    Main Page:
+    - Displays a filtered DataFrame of projects.
+    - Provides an AI Assistant to answer project-related queries:
+        - Initiates a conversation using Streamlit's session state.
+        - Stores and displays chat history.
+        - Sends user input to the AI assistant via the `ask_assistant` function.
+    - Displays a bar chart of projects grouped by category.
+    """
+
     st.set_page_config(layout="wide")
     ensure_data_exists()
 
